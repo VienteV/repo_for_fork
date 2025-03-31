@@ -7,3 +7,6 @@ def hello_2():
 
 def hellow_3():
     print('hi')
+
+def new_new():
+    yield 1
